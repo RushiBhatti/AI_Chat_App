@@ -1,16 +1,13 @@
-# ai_chat_app
+# AI Chat App
 
-A new Flutter project.
+- This app lets users have natural conversations with an AI powered by Google's Gemini API.
+- Users can send any prompt or message, and the AI will respond dynamically within the app📱.
 
-## Getting Started
+# Video
 
-This project is a starting point for a Flutter application.
+Here is the execution video of this app : https://github.com/RushiBhatti/AI_Chat_App/assets/139007370/5758b95f-397e-45dd-95c0-f7d9795fadb9
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![AI Chat App SS](https://github.com/RushiBhatti/AI_Chat_App/assets/139007370/94a49ac0-0c33-4be3-8a68-11e1eb6790e8)
